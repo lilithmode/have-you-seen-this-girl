@@ -2,7 +2,7 @@
 ## a multichannel installation
 ### made with ableton, supercollider, and the power of my community
 
-## cast:
+###### cast:
 formyaphis - the nun
 celadonva - the angel
 celadonva - the lover
