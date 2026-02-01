@@ -1,13 +1,15 @@
 - week 1 (jan 25 - jan 31)
 	- finish script
 	- record voicelines
-		- [ ] the nun (lauren)
+		- [x] the [[Nun]] (lauren) ✅ 2026-01-31
 		- [ ] the angel (celadon)
 		- [ ] the past lover (celadon)
-	- begin compositional work within ableton
-		- develop 2 paths / variations for the composition
-	- research supercollider multichannel capabilities
-	- MAKE THE DAMN GITHUB
+		- [ ] worker (shi)
+		- [ ] the kid (ophelia)
+		- [ ] the prostitute (idk)
+	- ~~begin compositional work within ableton~~
+	- ~~research supercollider multichannel capabilities~~
+	- ~~MAKE THE DAMN GITHUB~~
 
 - week 2 (feb 1 - feb 7)
 	- develop compositional work further
@@ -21,8 +23,6 @@
 		- figure out multichannel
 		- figure out sequences / scheduling within sc
 	- develop visuals / props
-		- phone booth?
-		- storyboards?
 		- video based visuals?
 
 - week 3 (feb 8 - feb 14)
@@ -39,16 +39,16 @@
 		- optimize, launch, test panning / mix
 	- focus on implementing conversation panning / mixing in multichannel
 		- important to keep conversation consistent / unchanged so i can keep adding onto the composition without worry
-		- OFFICE HOURS WITH RACHEL 2
 	- schedule, develop visuals more, begin integration of visuals within supercollider
 
 - week 05 (feb. 22 - feb 28)
 	- begin preparing presentation for juries
+		- big picture of how's it's done, and how it will get there
 		- compile documentation
 		- go over implementation in supercollider
+	- Office Hour RACHEL #2
 	- fine tune composition, plan out visual layout within room
 	- begin work on editing visuals / assets
-	- finalize angel partner composition
 	- finish composition
 
 - week 06 (march 1 - march 7)
@@ -77,6 +77,7 @@
 - week 09 (march 22 - march 28)
 	- multichannel testing week 1: 
 	- OFFICE HOURS WITH RACHEL 3
+	- 2214 multichannel testing? 8-9 AM :3c 
 		- go in labs and run testing 
 		- debug supercollider
 	- continue work on promotion 
@@ -102,7 +103,6 @@
 - week 12 (april 12 - 18)
 	- ROAD TO THE TOP : INSTALLATION TIME
 	- test multichannel one last time
-	- test variations on multichannel
 		- finish work on paper
 	- promote the hell out of installation
 	- do the installation!
@@ -113,7 +113,7 @@
 	- archive installation videos
 		- add videos to senior showcase video
 	- work on senior showcase video & submit
-	- upload stereo mixes to bandcamp and antiks site
+	- upload stereo mixes to bandcamp and [[antiks]] site
 		- promote installation and thank people who worked on it
 
 - week 14 (april 26 - may 2)
@@ -128,3 +128,7 @@
 - week 15 (may 3 - may 9)
 	- present final product
 	- finish the damn job.
+
+critique - keep in mind what i'm going to show each crit week
+
+get someone to record the video for the installation
