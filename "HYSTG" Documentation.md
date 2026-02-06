@@ -100,14 +100,41 @@
 	- zen: assumes that there is a certain level of ambiguity
 
 ### 1.30.26
-- writing
+- writing...
 
 ### 1.31.26
 - finally finished first pass of the script
-	- recorded lauren YAAYYYY
+	- recorded the nun YAAYYYY
 	- need to record:
-		- celadon
-		- ophelia
-		- shi
-		- ???
+		- the child
+		- the worker
+		- the prostitute
+		- the angel
+		- the ex
 - i need to get this done NEOWWWWW
+
+## 2.1.26
+- happy february
+	- finish the nun and the child
+		- planning to record the worker tn
+	- started composition work !
+		- relinquish instruments for each character
+	- kalil
+		- will help out with visuals
+		- slide show of "evidence" and characters
+
+## 2.4.26
+- finished the fucking script.
+- recording celadon today
+	- setting up layout for the phone calls
+	- finishing up instrumental demos
+- first wip rendered today!
+
+## 2.5.26
+- first presentation! not too bad
+	- deeptha - work on mix to make voices more legible
+	- rachel - DO NOT CALL IT AN INSTALLATION
+		- this is more of a multichannel radio drama
+	- https://www.scribd.com/document/721693661/Multichannel-Audio-Dramas 
+		- this is so funny lmfao
+	- 

@@ -1,11 +1,11 @@
 - week 1 (jan 25 - jan 31)
-	- finish script
+	- ~~finish script~~
 	- record voicelines
 		- [x] the [[Nun]] (lauren) ✅ 2026-01-31
-		- [ ] the angel (celadon)
-		- [ ] the past lover (celadon)
-		- [ ] worker (shi)
-		- [ ] the kid (ophelia)
+		- [x] the angel (celadon) ✅ 2026-02-04
+		- [x] the past lover (celadon) ✅ 2026-02-04
+		- [x] worker (shi) ✅ 2026-02-02
+		- [x] the kid (ophelia) ✅ 2026-02-02
 		- [ ] the prostitute (idk)
 	- ~~begin compositional work within ableton~~
 	- ~~research supercollider multichannel capabilities~~
@@ -22,8 +22,8 @@
 	- begin supercollider framework (?)
 		- figure out multichannel
 		- figure out sequences / scheduling within sc
-	- develop visuals / props
-		- video based visuals?
+	- ~~develop visuals / props~~
+		- ~~video based visuals?~~
 
 - week 3 (feb 8 - feb 14)
 	- develop composition further
